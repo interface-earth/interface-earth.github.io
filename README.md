@@ -27,7 +27,7 @@ Email: ke.yuan@stonybrook.edu
 -	B.S. China University of Geosciences, Beijing, 2009
 
 ### Work experience
--	Research Associate, Oak Ridge National Laboratory 2020-2026-
+-	Research Associate, Oak Ridge National Laboratory 2020-2026
 -	Postdoctoral Researcher: Oak Ridge National Laboratory 2019-2020
 -	Postdoctoral Researcher: Argonne National Laboratory 2015-2019
 
