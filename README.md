@@ -42,8 +42,11 @@ Please see the complete publication list at [Google scholar](https://scholar.goo
 S. Adapa, K. Yuan, B. Evans, J. Weber, S. Irle, L.M. Anovitz, A.G. Stack (2025) Acidities of MgO Surface Sites: Implications for the Formation Mechanism of Mg(OH)2, Journal of Materials Chemistry A, 13, 27367-27376. [Read](https://doi.org/10.1039/D5TA03981A)
 
 K. Yuan, N. Rampal, S. Adapa, B.R. Evans, J.N. Bracco, M.G. Boebinger, A.G. Stack, J. Weber (2024) Iron Impurity Impairs the CO2 Capture Performance of MgO: Insights from Microscopy and Machine Learning Molecular Dynamics, ACS Applied Materials & Interfaces, 16 (46), 64233-64243. [Read](https://doi.org/10.1021/acsami.4c13597)
+
 <p align="center">
-<img src="images/mgo.png" width="140">
+  <a href="https://doi.org/10.1021/acsami.4c13597" target="_blank">
+    <img src="images/mgo.png" width="140" alt="Iron Impurity Impairs the CO2 Capture Performance of MgO">
+  </a>
 </p>
 
 K. Yuan, N. Rampal, S. Irle, L.J. Criscenti, S.S. Lee, S. Adapa, A.G. Stack (2024) Variations in Proton Transfer Pathways and Energetics on Pristine and Defect-rich Quartz Surfaces in Water: Insights into the Bimodal Acidities of Quartz, Journal of Colloid and Interface Science, 666, 232-243. [Read](https://doi-org.ornl.idm.oclc.org/10.1016/j.jcis.2024.03.144)
