@@ -58,13 +58,19 @@ K. Yuan, N. Rampal, S. Irle, L.J. Criscenti, S.S. Lee, S. Adapa, A.G. Stack (202
 P. Yang, K. Yuan, R. Khanal, S. Irle, L. M. Anovitz, P. Fenter, A.G. Stack, S.S. Lee (2024) Variation in Cation Adsorption Mechanism Controlled by Chemical and Structural Heterogeneities at the Quartz (101)–Water Interface. The Journal of Physical Chemistry C, 128 (41), 17372-17386. [Read](https://doi.org/10.1021/acs.jpcc.4c03910)
 
 K. Yuan, N. Rampal, X. Du, F. Shu, Y. Wang, H. Wang, A.G. Stack, P.B. Ishai, L.M. Anovitz, P. Xu (2024) Impact of Magnetic and Electric Fields on the Free Energy to form a Calcium Carbonate ion-pair, Physical Chemistry Chemical Physics, 26 (44), 27891-27901. [Read](https://doi.org/10.1039/D4CP02041C)
+
 <p align="center">
-<img src="images/pccp.png" width="110">
+  <a href="https://doi.org/10.1039/D4CP02041C" target="_blank">
+    <img src="images/pccp.png" width="110">
+  </a>
 </p>
 
 K. Yuan, N. Rampal, P. Fenter, J.D. Kubicki, A.G. Stack, S. Irle (2021) Density Functional Tight-Binding Simulations Reveal the Presence of Surface Defects on the Quartz (101)–Water Interface. The Journal of Physical Chemistry C 125 (29), 16246-16255. [Read](https://doi.org/10.1021/acs.jpcc.1c03689)
+
 <p align="center">
-<img src="images/jpcc.png" width="110">
+  <a href="https://doi.org/10.1021/acs.jpcc.1c03689" target="_blank">
+    <img src="images/jpcc.png" width="110">
+  </a>
 </p>
 
 K. Yuan, S.D. Taylor, B.A. Powell, U. Becker (2017) An ab initio study of the adsorption of Eu3+, Pu3+, Am3+, and Cm3+ hydroxide complexes on hematite (001) surface: Role of magnetism on adsorption. Surface Science 664, 120-128. [Read](https://doi-org.ornl.idm.oclc.org/10.1016/j.susc.2017.06.007)
@@ -75,8 +81,11 @@ S.L. Estes, Y. Arai, U. Becker, S. Fernando, K. Yuan, R.C. Ewing, J.M. Zhang, T.
 
 ### Mineral dissolution and growth (Strain, defects, and dissolution-reprecipitation)
 K. Yuan, J. Weber, N. Rampal, Z. Fang, J. You, M.G. Boebinger, R. Zhang, W. Cha, L.M. Anovitz, S.S. Lee, A. Suzana, P. Fenter, A.G. Stack, (2026) Mechanistic Insights into Defect-Mediated Crystallization Revealed by Lattice Strain Evolution, Journal of the American Chemical Society, 148, 2, 2206-2219. [Read](https://doi.org/10.1021/jacs.5c11233)
+
 <p align="center">
-<img src="images/bcdi.png" width="110">
+  <a href="https://doi.org/10.1021/jacs.5c11233" target="_blank">
+    <img src="images/bcdi.png" width="110">
+  </a>
 </p>
 
 K. Yuan, V. Starchenko, N. Rampal, F. Yang, X. Xiao, A.G. Stack (2023), Assessing an Aqueous Flow Cell Designed for in situ Crystal Growth under X-ray Nanotomography and Effects of Radiolysis Products, Journal of Synchrotron Radiation 30 (3):634-642. [Read](https://doi.org/10.1107/S1600577523002783)
@@ -84,8 +93,11 @@ K. Yuan, V. Starchenko, N. Rampal, F. Yang, X. Xiao, A.G. Stack (2023), Assessin
 A.B. Brady, J. Weber, K. Yuan, L.F. Allard, O. Avina, R. Ogaz, Y.J. Chang, N.Rampal, V. Starchenko, G.Rother, L.M. Anovitz, J.L. Bañuelos, H. Wang, A.G. Stack (2022), In Situ Observations of Barium Sulfate Nucleation in Nanopores, Crystal Growth & Design 22 (12), 6941-6951. [Read](https://doi.org/10.1021/acs.cgd.2c00592)
 
 K. Yuan, V. Starchenko, N. Rampal, F. Yang, X. Yang, X. Xiao, W.K. Lee, A.G. Stack. (2021) Opposing Effects of Impurity Ion Sr2+ on the Heterogeneous Nucleation and Growth of Barite (BaSO4), Crystal Growth & Design 21 (10), 5828-5839. [Read](https://doi.org/10.1021/acs.cgd.1c00715)
+
 <p align="center">
-<img src="images/cgd.png" width="110">
+  <a href="https://doi.org/10.1021/acs.cgd.1c00715" target="_blank">
+    <img src="images/cgd.png" width="110">
+  </a>
 </p>
 
 K. Yuan, V. Starchenko. S. S. Lee, V. D. Andrade, D. Gursoy, N. C. Sturchio, P. Fenter (2019) Mapping three-dimensional dissolution rates of calcite microcrystals: Effects of surface curvature and dissolved metal ions. ACS Earth and Space Chemistry 3,5 883-843. [Read](https://doi.org/10.1021/acsearthspacechem.9b00003)
