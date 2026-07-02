@@ -25,7 +25,7 @@ Ke Yuan, Assistant Professor, Email: ke.yuan@stonybrook.edu
 We have access to advanced High-Performance Computing (HPC) clusters at SBU.
 - https://rci.stonybrook.edu/HPC
 
-We use nearby user facilities at the nearby Brookhaven National Laboratory, including Center for Funcational Materials and National Syncrotrhon Light Source II (NSLS-II).
+We use and collaborate with researchers from user facilities at the nearby Brookhaven National Laboratory, including Center for Funcational Materials and National Syncrotrhon Light Source II (NSLS-II).
 - https://www.bnl.gov/cfn/
 - https://www.bnl.gov/nsls2/
 
