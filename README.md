@@ -9,15 +9,13 @@ Please feel free to contact me (ke.yuan@stonybrook.edu) to learn more about rese
 
 ## Team Members
 <img src="images/profile_photo.png"
-     width="230"
+     width="180"
      align="center"
      style="margin-right:50px; margin-bottom:15px;">
 
 ### Ke Yuan
 Assistant Professor, Department of Geosciences 
 - Email: ke.yuan@stonybrook.edu
-
-<br>
 
 ### Education
 - Ph.D University of Michigan, Ann Arbor, 2015
