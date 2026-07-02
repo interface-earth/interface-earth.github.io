@@ -10,8 +10,17 @@ Our group utilizes high-performance computing facilities, together with laborato
 Please feel free to contact me (ke.yuan@stonybrook.edu) to learn more about research opportunities or potential collaborations.
 
 ## Team Members
-![profile](profile_photo.png)
-Ke Yuan, Assistant Professor, Email: ke.yuan@stonybrook.edu
+<img src="profile_photo.png"
+     width="430"
+     align="left"
+     style="margin-right:30px; margin-bottom:15px;">
+
+### Ke Yuan
+Assistant Professor, Department of Geosciences 
+- Email: ke.yuan@stonybrook.edu
+
+<br>
+
 ### Education
 - Ph.D University of Michigan, Ann Arbor, 2015
 -	M.S. China University of Geosciences, Beijing, 2011
@@ -21,7 +30,7 @@ Ke Yuan, Assistant Professor, Email: ke.yuan@stonybrook.edu
 -	Postdoctoral Researcher: Oak Ridge National Laboratory 2019-2020
 -	Postdoctoral Researcher: Argonne National Laboratory 2015-2019
 
-### Facilities
+## Facilities
 We have access to advanced High-Performance Computing (HPC) clusters at SBU.
 - [SeaWulf & NVwulf](https://rci.stonybrook.edu/HPC)
 
