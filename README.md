@@ -31,17 +31,17 @@ Assistant Professor, Department of Geosciences
 -	Postdoctoral Researcher: Argonne National Laboratory 2015-2019
 
 ## Facilities
-We have access to advanced High-Performance Computing (HPC) clusters at SBU.
+We have access to advanced high‑performance computing (HPC) clusters at SBU.
 - [SeaWulf & NVwulf](https://rci.stonybrook.edu/HPC)
 
-We use and collaborate with researchers from user facilities at the nearby Brookhaven National Laboratory, including Center for Funcational Materials and National Syncrotrhon Light Source II (NSLS-II).
+We use and collaborate with researchers from user facilities at the nearby Brookhaven National Laboratory, including the Center for Functional Materials and the National Synchrotron Light Source II (NSLS‑II).
 - [BNL-CFN](https://www.bnl.gov/cfn/)
 - [BNL-NSLS-II](https://www.bnl.gov/nsls2/)
 
 ## Selected Publications
 Please see the complete publication list at [Google scholar](https://scholar.google.com/citations?user=FhJGYIQAAAAJ&hl=en)
 
-### Mineral surface and interfacial reactions (Ion sorption, proton transfer, and surface defects)
+### Mineral surface and interfacial reactions (Ion sorption, proton transfer, and surface structure)
 S. Adapa, K. Yuan, B. Evans, J. Weber, S. Irle, L.M. Anovitz, A.G. Stack (2025) Acidities of MgO Surface Sites: Implications for the Formation Mechanism of Mg(OH)2, Journal of Materials Chemistry A, 13, 27367-27376. [Read](https://doi.org/10.1039/D5TA03981A)
 
 K. Yuan, N. Rampal, S. Adapa, B.R. Evans, J.N. Bracco, M.G. Boebinger, A.G. Stack, J. Weber (2024) Iron Impurity Impairs the CO2 Capture Performance of MgO: Insights from Microscopy and Machine Learning Molecular Dynamics, ACS Applied Materials & Interfaces, 16 (46), 64233-64243. [Read](https://doi.org/10.1021/acsami.4c13597)
@@ -69,7 +69,12 @@ K. Yuan, R.C. Ewing, U. Becker (2015) Thermodynamic mixing properties of the UO2
 
 S.L. Estes, Y. Arai, U. Becker, S. Fernando, K. Yuan, R.C. Ewing, J.M. Zhang, T. Shibata, B.A. Powell (2013) A self-consistent model describing the thermodynamics of Eu(III) adsorption onto hematite. Geochimica et Cosmochimica Acta 122, 430-447. [Read](https://doi-org.ornl.idm.oclc.org/10.1016/j.gca.2013.08.023)
 
-### Mineral dissolution and growth (Mineral strain formation and dissolution-reprecipitation)
+### Mineral dissolution and growth (Strain, defects, and dissolution-reprecipitation)
+K. Yuan, J. Weber, N. Rampal, Z. Fang, J. You, M.G. Boebinger, R. Zhang, W. Cha, L.M. Anovitz, S.S. Lee, A. Suzana, P. Fenter, A.G. Stack, (2026) Mechanistic Insights into Defect-Mediated Crystallization Revealed by Lattice Strain Evolution, Journal of the American Chemical Society, 148, 2, 2206-2219. [Read](https://doi.org/10.1021/jacs.5c11233)
+<p align="center">
+<img src="cdi.png" width="110">
+</p>
+
 K. Yuan, V. Starchenko, N. Rampal, F. Yang, X. Xiao, A.G. Stack (2023), Assessing an Aqueous Flow Cell Designed for in situ Crystal Growth under X-ray Nanotomography and Effects of Radiolysis Products, Journal of Synchrotron Radiation 30 (3):634-642. [Read](https://doi.org/10.1107/S1600577523002783)
 
 A.B. Brady, J. Weber, K. Yuan, L.F. Allard, O. Avina, R. Ogaz, Y.J. Chang, N.Rampal, V. Starchenko, G.Rother, L.M. Anovitz, J.L. Bañuelos, H. Wang, A.G. Stack (2022), In Situ Observations of Barium Sulfate Nucleation in Nanopores, Crystal Growth & Design 22 (12), 6941-6951. [Read](https://doi.org/10.1021/acs.cgd.2c00592)
