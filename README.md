@@ -28,8 +28,8 @@ Email: ke.yuan@stonybrook.edu
 
 ### Work experience
 -	Research Associate, Oak Ridge National Laboratory 2020-2026
--	Postdoctoral Researcher: Oak Ridge National Laboratory 2019-2020
--	Postdoctoral Researcher: Argonne National Laboratory 2015-2019
+-	Postdoctoral Researcher, Oak Ridge National Laboratory 2019-2020
+-	Postdoctoral Researcher, Argonne National Laboratory 2015-2019
 
 ## Facilities
 We have access to advanced high‑performance computing (HPC) clusters at SBU.
