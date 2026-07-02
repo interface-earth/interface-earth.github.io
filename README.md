@@ -11,9 +11,9 @@ Please feel free to contact me (ke.yuan@stonybrook.edu) to learn more about rese
 
 ## Team Members
 <img src="images/profile_photo.png"
-     width="430"
+     width="230"
      align="left"
-     style="margin-right:30px; margin-bottom:15px;">
+     style="margin-right:50px; margin-bottom:15px;">
 
 ### Ke Yuan
 Assistant Professor, Department of Geosciences 
@@ -25,6 +25,7 @@ Assistant Professor, Department of Geosciences
 - Ph.D University of Michigan, Ann Arbor, 2015
 -	M.S. China University of Geosciences, Beijing, 2011
 -	B.S. China University of Geosciences, Beijing, 2009
+
 ### Work experience
 -	Research Associate, Oak Ridge National Laboratory 2020-2026-
 -	Postdoctoral Researcher: Oak Ridge National Laboratory 2019-2020
