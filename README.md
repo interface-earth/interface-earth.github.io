@@ -30,10 +30,10 @@ We use and collaborate with researchers from user facilities at the nearby Brook
 - https://www.bnl.gov/nsls2/
 
 ## Selected Publications
-Please see the complete publication list at [Google scholar] (https://scholar.google.com/citations?user=FhJGYIQAAAAJ&hl=en)
+Please see the complete publication list at [Google scholar](https://scholar.google.com/citations?user=FhJGYIQAAAAJ&hl=en)
 
 ### Mineral surface and interfacial reactions (Ion sorption, proton transfer, and surface defects)
-S. Adapa, K. Yuan, B. Evans, J. Weber, S. Irle, L.M. Anovitz, A.G. Stack (2025) Acidities of MgO Surface Sites: Implications for the Formation Mechanism of Mg(OH)2, Journal of Materials Chemistry A, 13, 27367-27376. [link] (https://doi.org/10.1039/D5TA03981A)
+S. Adapa, K. Yuan, B. Evans, J. Weber, S. Irle, L.M. Anovitz, A.G. Stack (2025) Acidities of MgO Surface Sites: Implications for the Formation Mechanism of Mg(OH)2, Journal of Materials Chemistry A, 13, 27367-27376. [link](https://doi.org/10.1039/D5TA03981A)
 
 K. Yuan, N. Rampal, S. Adapa, B.R. Evans, J.N. Bracco, M.G. Boebinger, A.G. Stack, J. Weber (2024) Iron Impurity Impairs the CO2 Capture Performance of MgO: Insights from Microscopy and Machine Learning Molecular Dynamics, ACS Applied Materials & Interfaces, 16 (46), 64233-64243. https://doi.org/10.1021/acsami.4c13597
 
