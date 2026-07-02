@@ -10,7 +10,7 @@ Please feel free to contact me (ke.yuan@stonybrook.edu) to learn more about rese
 ## Team Members
 <img src="images/profile_photo.png"
      width="230"
-     align="left"
+     align="center"
      style="margin-right:50px; margin-bottom:15px;">
 
 ### Ke Yuan
