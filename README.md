@@ -45,14 +45,26 @@ Please see the complete publication list at [Google scholar](https://scholar.goo
 S. Adapa, K. Yuan, B. Evans, J. Weber, S. Irle, L.M. Anovitz, A.G. Stack (2025) Acidities of MgO Surface Sites: Implications for the Formation Mechanism of Mg(OH)2, Journal of Materials Chemistry A, 13, 27367-27376. [Read](https://doi.org/10.1039/D5TA03981A)
 
 K. Yuan, N. Rampal, S. Adapa, B.R. Evans, J.N. Bracco, M.G. Boebinger, A.G. Stack, J. Weber (2024) Iron Impurity Impairs the CO2 Capture Performance of MgO: Insights from Microscopy and Machine Learning Molecular Dynamics, ACS Applied Materials & Interfaces, 16 (46), 64233-64243. [Read](https://doi.org/10.1021/acsami.4c13597)
+<img src="mgo.png"
+     width="330"
+     align="center"
+     style="margin-right:30px; margin-bottom:15px;">
 
 K. Yuan, N. Rampal, S. Irle, L.J. Criscenti, S.S. Lee, S. Adapa, A.G. Stack (2024) Variations in Proton Transfer Pathways and Energetics on Pristine and Defect-rich Quartz Surfaces in Water: Insights into the Bimodal Acidities of Quartz, Journal of Colloid and Interface Science, 666, 232-243. [Read](https://doi-org.ornl.idm.oclc.org/10.1016/j.jcis.2024.03.144)
 
 P. Yang, K. Yuan, R. Khanal, S. Irle, L. M. Anovitz, P. Fenter, A.G. Stack, S.S. Lee (2024) Variation in Cation Adsorption Mechanism Controlled by Chemical and Structural Heterogeneities at the Quartz (101)–Water Interface. The Journal of Physical Chemistry C, 128 (41), 17372-17386. [Read](https://doi.org/10.1021/acs.jpcc.4c03910)
 
 K. Yuan, N. Rampal, X. Du, F. Shu, Y. Wang, H. Wang, A.G. Stack, P.B. Ishai, L.M. Anovitz, P. Xu (2024) Impact of Magnetic and Electric Fields on the Free Energy to form a Calcium Carbonate ion-pair, Physical Chemistry Chemical Physics, 26 (44), 27891-27901. [Read](https://doi.org/10.1039/D4CP02041C)
+<img src="pccp.png"
+     width="330"
+     align="center"
+     style="margin-right:30px; margin-bottom:15px;">
 
 K. Yuan, N. Rampal, P. Fenter, J.D. Kubicki, A.G. Stack, S. Irle (2021) Density Functional Tight-Binding Simulations Reveal the Presence of Surface Defects on the Quartz (101)–Water Interface. The Journal of Physical Chemistry C 125 (29), 16246-16255. [Read](https://doi.org/10.1021/acs.jpcc.1c03689)
+<img src="jpcc.png"
+     width="330"
+     align="center"
+     style="margin-right:30px; margin-bottom:15px;">
 
 K. Yuan, S.D. Taylor, B.A. Powell, U. Becker (2017) An ab initio study of the adsorption of Eu3+, Pu3+, Am3+, and Cm3+ hydroxide complexes on hematite (001) surface: Role of magnetism on adsorption. Surface Science 664, 120-128. [Read](https://doi-org.ornl.idm.oclc.org/10.1016/j.susc.2017.06.007)
 
@@ -66,6 +78,10 @@ K. Yuan, V. Starchenko, N. Rampal, F. Yang, X. Xiao, A.G. Stack (2023), Assessin
 A.B. Brady, J. Weber, K. Yuan, L.F. Allard, O. Avina, R. Ogaz, Y.J. Chang, N.Rampal, V. Starchenko, G.Rother, L.M. Anovitz, J.L. Bañuelos, H. Wang, A.G. Stack (2022), In Situ Observations of Barium Sulfate Nucleation in Nanopores, Crystal Growth & Design 22 (12), 6941-6951. [Read](https://doi.org/10.1021/acs.cgd.2c00592)
 
 K. Yuan, V. Starchenko, N. Rampal, F. Yang, X. Yang, X. Xiao, W.K. Lee, A.G. Stack. (2021) Opposing Effects of Impurity Ion Sr2+ on the Heterogeneous Nucleation and Growth of Barite (BaSO4), Crystal Growth & Design 21 (10), 5828-5839. [Read](https://doi.org/10.1021/acs.cgd.1c00715)
+<img src="cgd.png"
+     width="330"
+     align="center"
+     style="margin-right:30px; margin-bottom:15px;">
 
 K. Yuan, V. Starchenko. S. S. Lee, V. D. Andrade, D. Gursoy, N. C. Sturchio, P. Fenter (2019) Mapping three-dimensional dissolution rates of calcite microcrystals: Effects of surface curvature and dissolved metal ions. ACS Earth and Space Chemistry 3,5 883-843. [Read](https://doi.org/10.1021/acsearthspacechem.9b00003)
 
