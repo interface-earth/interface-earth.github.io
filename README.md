@@ -22,7 +22,7 @@ Email: ke.yuan@stonybrook.edu
 <br>
 
 ### Education
-- Ph.D University of Michigan, Ann Arbor, 2015
+-    Ph.D University of Michigan, Ann Arbor, 2015
 -	M.S. China University of Geosciences, Beijing, 2011
 -	B.S. China University of Geosciences, Beijing, 2009
 
