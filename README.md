@@ -73,7 +73,7 @@ S.L. Estes, Y. Arai, U. Becker, S. Fernando, K. Yuan, R.C. Ewing, J.M. Zhang, T.
 ### Mineral dissolution and growth (Strain, defects, and dissolution-reprecipitation)
 K. Yuan, J. Weber, N. Rampal, Z. Fang, J. You, M.G. Boebinger, R. Zhang, W. Cha, L.M. Anovitz, S.S. Lee, A. Suzana, P. Fenter, A.G. Stack, (2026) Mechanistic Insights into Defect-Mediated Crystallization Revealed by Lattice Strain Evolution, Journal of the American Chemical Society, 148, 2, 2206-2219. [Read](https://doi.org/10.1021/jacs.5c11233)
 <p align="center">
-<img src="images/cdi.png" width="110">
+<img src="images/bcdi.png" width="110">
 </p>
 
 K. Yuan, V. Starchenko, N. Rampal, F. Yang, X. Xiao, A.G. Stack (2023), Assessing an Aqueous Flow Cell Designed for in situ Crystal Growth under X-ray Nanotomography and Effects of Radiolysis Products, Journal of Synchrotron Radiation 30 (3):634-642. [Read](https://doi.org/10.1107/S1600577523002783)
