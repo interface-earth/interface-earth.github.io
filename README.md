@@ -10,11 +10,13 @@ Our group utilizes high-performance computing facilities, together with laborato
 Please feel free to contact me (ke.yuan@stonybrook.edu) to learn more about research opportunities or potential collaborations.
 
 ## Ke Yuan CV
-![profile](profile.png)
+#![profile](profile_photo.png)
+
 ### Education
 - Ph.D University of Michigan, Ann Arbor, 2015
 -	M.S. China University of Geosciences, Beijing, 2011
 -	B.S. China University of Geosciences, Beijing, 2009
+-
 ### Work experience
 -	Research Associate, Oak Ridge National Laboratory 2020-2026-
 -	Postdoctoral Researcher: Oak Ridge National Laboratory 2019-2020
