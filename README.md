@@ -12,16 +12,16 @@ Please feel free to contact me (ke.yuan@stonybrook.edu) to learn more about rese
 ## Ke Yuan CV
 ![profile](profile.png)
 ### Education
-•	Ph.D University of Michigan, Ann Arbor, 2015
-•	M.S. China University of Geosciences, Beijing, 2011
-•	B.S. China University of Geosciences, Beijing, 2009
+- Ph.D University of Michigan, Ann Arbor, 2015
+-	M.S. China University of Geosciences, Beijing, 2011
+-	B.S. China University of Geosciences, Beijing, 2009
 ### Work experience
-•	Research Associate, Oak Ridge National Laboratory 2020-2026
-•	Postdoctoral Researcher: Oak Ridge National Laboratory 2019-2020
-•	Postdoctoral Researcher: Argonne National Laboratory 2015-2019
+-	Research Associate, Oak Ridge National Laboratory 2020-2026-
+-	Postdoctoral Researcher: Oak Ridge National Laboratory 2019-2020
+-	Postdoctoral Researcher: Argonne National Laboratory 2015-2019
 
 ## Selected Publications
-Please see complete publication list at [Google scholar] (https://scholar.google.com/citations?user=FhJGYIQAAAAJ&hl=en)
+Please see the complete publication list at [Google scholar] (https://scholar.google.com/citations?user=FhJGYIQAAAAJ&hl=en)
 
 ### Mineral surface and interfacial reactions (simulations works on ion sorption, proton transfer, and surface defects)
 S. Adapa, K. Yuan, B. Evans, J. Weber, S. Irle, L.M. Anovitz, A.G. Stack (2025) Acidities of MgO Surface Sites: Implications for the Formation Mechanism of Mg(OH)2, Journal of Materials Chemistry A, 13, 27367-27376. [link] (https://doi.org/10.1039/D5TA03981A)
