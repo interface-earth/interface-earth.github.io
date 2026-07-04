@@ -6,3 +6,30 @@
 .view {
   display: none;
 }
+
+.sidebar-nav {
+    margin: 20px 0;
+}
+
+.sidebar-nav a {
+    display: block;
+    margin-bottom: 8px;
+    padding: 8px 12px;
+
+    background: #f4f4f4;
+    border: 1px solid #d0d0d0;
+    border-radius: 6px;
+
+    text-decoration: none;
+    color: #333;
+    font-weight: 600;
+    text-align: center;
+
+    transition: all 0.2s ease;
+}
+
+.sidebar-nav a:hover {
+    background: #267CB9;
+    color: white;
+    border-color: #267CB9;
+}
