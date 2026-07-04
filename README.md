@@ -116,6 +116,7 @@ Y.J. Kim, K. Yuan, B.R. Ellis, U. Becker (2017) Redox Reactions of Selenium as C
 
 K. Yuan, E.S. Ilton, M.R. Antonio, Z. Li, P.J. Cook, U. Becker (2015) Electrochemical and Spectroscopic Evidence on the One electron Reduction of U(VI) to U(V) on Magnetite. Environmental Science & Technology 49, 6206-6213. [Read](https://doi.org/10.1021/acs.est.5b00025)
 
-
-
+## Contact
+Email: ke.yuan@stonybrook.edu
+[Department of Geosciences](https://www.stonybrook.edu/geosciences/)
 
