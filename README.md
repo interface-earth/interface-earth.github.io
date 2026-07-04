@@ -42,7 +42,7 @@ We use and collaborate with researchers from user facilities at the nearby Brook
 ## Teaching
 Fall 2026, Graduate Research Seminar (Surface and Interfacial Geochemistry)
 
-## Selected Publications
+## Publications
 Please see the complete publication list at [Google scholar](https://scholar.google.com/citations?user=FhJGYIQAAAAJ&hl=en)
 
 ### Mineral surface and interfacial reactions (Ion sorption, proton transfer, and surface structure)
