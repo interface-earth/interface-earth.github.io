@@ -39,6 +39,9 @@ We use and collaborate with researchers from user facilities at the nearby Brook
 - [BNL-CFN](https://www.bnl.gov/cfn/)
 - [BNL-NSLS-II](https://www.bnl.gov/nsls2/)
 
+## Teaching
+Fall 2026, Graduate Research Seminar (Surface and Interfacial Geochemistry)
+
 ## Selected Publications
 Please see the complete publication list at [Google scholar](https://scholar.google.com/citations?user=FhJGYIQAAAAJ&hl=en)
 
