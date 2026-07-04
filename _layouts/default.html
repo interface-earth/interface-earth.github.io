@@ -22,16 +22,14 @@
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-        <nav class="sidebar-nav">
-        <ul>
-        <li><a href="#research">Research</a></li>
-        <li><a href="#team-members">Team Members</a></li>
-        <li><a href="#facilities">Facilities</a></li>
-        <li><a href="#teaching">Teaching</a></li>
-        <li><a href="#publications">Publications</a></li>
-        <li><a href="#contact">Contact</a></li>
-        </ul>
-        </nav>
+       <nav class="sidebar-nav">
+       <a href="#research">Research</a>
+       <a href="#publications">Publications</a>
+       <a href="#team-members">Team Members</a>
+       <a href="#facilities">Facilities</a>
+       <a href="#teaching">Teaching</a>
+       <a href="#contact">Contact</a>
+       </nav>
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
