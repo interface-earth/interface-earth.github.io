@@ -52,7 +52,7 @@ K. Yuan, N. Rampal, S. Adapa, B.R. Evans, J.N. Bracco, M.G. Boebinger, A.G. Stac
 
 <p align="center">
   <a href="https://doi.org/10.1021/acsami.4c13597" target="_blank">
-    <img src="images/mgo.png" width="140" alt="Iron Impurity Impairs the CO2 Capture Performance of MgO">
+    <img src="images/mgo.png" width="160" alt="Iron Impurity Impairs the CO2 Capture Performance of MgO">
   </a>
 </p>
 
@@ -64,7 +64,7 @@ K. Yuan, N. Rampal, X. Du, F. Shu, Y. Wang, H. Wang, A.G. Stack, P.B. Ishai, L.M
 
 <p align="center">
   <a href="https://doi.org/10.1039/D4CP02041C" target="_blank">
-    <img src="images/pccp.png" width="110">
+    <img src="images/pccp.png" width="130">
   </a>
 </p>
 
@@ -72,7 +72,7 @@ K. Yuan, N. Rampal, P. Fenter, J.D. Kubicki, A.G. Stack, S. Irle (2021) Density 
 
 <p align="center">
   <a href="https://doi.org/10.1021/acs.jpcc.1c03689" target="_blank">
-    <img src="images/jpcc.png" width="110">
+    <img src="images/jpcc.png" width="130">
   </a>
 </p>
 
@@ -87,7 +87,7 @@ K. Yuan, J. Weber, N. Rampal, Z. Fang, J. You, M.G. Boebinger, R. Zhang, W. Cha,
 
 <p align="center">
   <a href="https://doi.org/10.1021/jacs.5c11233" target="_blank">
-    <img src="images/bcdi.png" width="110">
+    <img src="images/bcdi.png" width="130">
   </a>
 </p>
 
@@ -99,7 +99,7 @@ K. Yuan, V. Starchenko, N. Rampal, F. Yang, X. Yang, X. Xiao, W.K. Lee, A.G. Sta
 
 <p align="center">
   <a href="https://doi.org/10.1021/acs.cgd.1c00715" target="_blank">
-    <img src="images/cgd.png" width="110">
+    <img src="images/cgd.png" width="130">
   </a>
 </p>
 
