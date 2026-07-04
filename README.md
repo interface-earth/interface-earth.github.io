@@ -1,7 +1,9 @@
 Welcome to the Interfacial Earth Materials Lab website.
 
 <div class="section-header" id="research">
-Research
+Research   
+</div>
+
 Reactions occurring at mineral–water interfaces influence a wide range of geochemical processes, including weathering, metal cycling, and the properties of Earth materials. These fundamental reactions are often initiated at non-ideal surface sites that are highly reactive and exhibit rapid structural dynamics. I am interested in visualizing the elementary steps at mineral–water interfaces using molecular-scale simulations, complemented by laboratory experiments and close collaborations with faculty members from [Aqueous Geochemistry](https://sites.google.com/stonybrook.edu/agate) and [Mineral Physics Institute](https://www.stonybrook.edu/commcms/mineral-physics-institute/) at Stony Brook, to reveal how mineral–water interfaces respond to complex (bio)geochemical environments. Current research topics include:
 
 1.	Mineral dissolution–reprecipitation and redox reactions
@@ -9,7 +11,7 @@ Reactions occurring at mineral–water interfaces influence a wide range of geoc
 3.	Material properties and interfacial processes under extreme conditions
 
 Please feel free to contact me (ke.yuan@stonybrook.edu) to learn more about research opportunities or potential collaborations.
-</div>
+
 
 
 ## Team Members
