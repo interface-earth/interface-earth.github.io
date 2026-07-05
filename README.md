@@ -12,7 +12,7 @@ Reactions occurring at mineral–water interfaces influence a wide range of geoc
 
 Please feel free to contact me (ke.yuan@stonybrook.edu) to learn more about research opportunities or potential collaborations.
 
-<h2 class="section-header" id="team members">
+<h2 class="section-header" id="Team Members">
 Team Members  
 </h2>
 
@@ -39,7 +39,7 @@ Email: ke.yuan@stonybrook.edu
 -	Postdoctoral Researcher, [Oak Ridge National Laboratory](https://www.ornl.gov/group/gisg) 2019-2020
 -	Postdoctoral Researcher, [Argonne National Laboratory](https://www.anl.gov/cse/interfacial-processes) 2015-2019
 
-<h2 class="section-header" id="facilities">
+<h2 class="section-header" id="Facilities">
 Facilities 
 </h2>
 
@@ -50,13 +50,13 @@ We use and collaborate with researchers from user facilities at the nearby Brook
 - [BNL-CFN](https://www.bnl.gov/cfn/)
 - [BNL-NSLS-II](https://www.bnl.gov/nsls2/)
 
-<h2 class="section-header" id="teaching">
+<h2 class="section-header" id="Teaching">
 Teaching
 </h2>
 
 Fall 2026, Graduate Research Seminar (Surface and Interfacial Geochemistry)
 
-<h2 class="section-header" id="publications">
+<h2 class="section-header" id="Publications">
 Publications
 </h2>
 
@@ -137,7 +137,7 @@ Y.J. Kim, K. Yuan, B.R. Ellis, U. Becker (2017) [Redox Reactions of Selenium as 
 
 K. Yuan, E.S. Ilton, M.R. Antonio, Z. Li, P.J. Cook, U. Becker (2015) [Electrochemical and Spectroscopic Evidence on the One electron Reduction of U(VI) to U(V) on Magnetite](https://doi.org/10.1021/acs.est.5b00025) Environmental Science & Technology 49, 6206-6213.
 
-<h2 class="section-header" id="contact">
+<h2 class="section-header" id="Contact">
 Contact
 </h2>
 
