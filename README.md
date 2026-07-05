@@ -1,4 +1,4 @@
-Welcome to the Interfacial Earth Materials Lab website.
+## Welcome to the Interfacial Earth Materials Lab website.
 
 <h2 class="section-header" id="research">
 Research   
@@ -12,9 +12,10 @@ Reactions occurring at mineral–water interfaces influence a wide range of geoc
 
 Please feel free to contact me (ke.yuan@stonybrook.edu) to learn more about research opportunities or potential collaborations.
 
+<h2 class="section-header" id="research">
+Team Members  
+</h2>
 
-
-## Team Members
 <img src="images/profile_photo.png"
      width="120"
      align="left"
@@ -38,7 +39,10 @@ Email: ke.yuan@stonybrook.edu
 -	Postdoctoral Researcher, Oak Ridge National Laboratory 2019-2020
 -	Postdoctoral Researcher, Argonne National Laboratory 2015-2019
 
-## Facilities
+<h2 class="section-header" id="research">
+Facilities 
+</h2>
+
 We have access to advanced high‑performance computing (HPC) clusters at SBU.
 - [SeaWulf & NVwulf](https://rci.stonybrook.edu/HPC)
 
@@ -46,10 +50,16 @@ We use and collaborate with researchers from user facilities at the nearby Brook
 - [BNL-CFN](https://www.bnl.gov/cfn/)
 - [BNL-NSLS-II](https://www.bnl.gov/nsls2/)
 
-## Teaching
+<h2 class="section-header" id="research">
+Teaching
+</h2>
+
 Fall 2026, Graduate Research Seminar (Surface and Interfacial Geochemistry)
 
-## Publications
+<h2 class="section-header" id="research">
+Publications
+</h2>
+
 Please see the complete publication list at [Google scholar](https://scholar.google.com/citations?user=FhJGYIQAAAAJ&hl=en)
 
 ### Mineral surface and interfacial reactions (Ion sorption, proton transfer, and surface structure)
@@ -121,9 +131,10 @@ K. Yuan, V.D. Andrade, Z. Feng, N.C. Sturchio, S.S. Lee, P. Fenter (2018) Pb2+-c
 ### Charge transfer reactions
 Y.J. Kim, K. Yuan, B.R. Ellis, U. Becker (2017) Redox Reactions of Selenium as Catalyzed by Magnetite: Lessons Learnt from using Electrochemistry and Spectroscopic Methods. Geochimica et Cosmochimica Acta 199, 304-323. [Read](https://doi.org/10.1016/j.gca.2016.10.039)
 
-K. Yuan, E.S. Ilton, M.R. Antonio, Z. Li, P.J. Cook, U. Becker (2015) Electrochemical and Spectroscopic Evidence on the One electron Reduction of U(VI) to U(V) on Magnetite. Environmental Science & Technology 49, 6206-6213. [Read](https://doi.org/10.1021/acs.est.5b00025)
+K. Yuan, E.S. Ilton, M.R. Antonio, Z. Li, P.J. Cook, U. Becker (2015) [Electrochemical and Spectroscopic Evidence on the One electron Reduction of U(VI) to U(V) on Magnetite](https://doi.org/10.1021/acs.est.5b00025) Environmental Science & Technology 49, 6206-6213.
 
 ## Contact
 Email: ke.yuan@stonybrook.edu
-[Department of Geosciences](https://www.stonybrook.edu/geosciences/)
+<br>[Department of Geosciences](https://www.stonybrook.edu/geosciences/)
+<br>Stony Brook University
 
