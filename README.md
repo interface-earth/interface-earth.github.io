@@ -70,9 +70,9 @@ K. Yuan, N. Rampal, S. Adapa, B.R. Evans, J.N. Bracco, M.G. Boebinger, A.G. Stac
   </a>
 </p>
 
-K. Yuan, N. Rampal, S. Irle, L.J. Criscenti, S.S. Lee, S. Adapa, A.G. Stack (2024) [Variations in Proton Transfer Pathways and Energetics on Pristine and Defect-rich Quartz Surfaces in Water: Insights into the Bimodal Acidities of Quartz](https://doi-org/10.1016/j.jcis.2024.03.144) Journal of Colloid and Interface Science, 666, 232-243. 
+K. Yuan, N. Rampal, S. Irle, L.J. Criscenti, S.S. Lee, S. Adapa, A.G. Stack (2024) [Variations in Proton Transfer Pathways and Energetics on Pristine and Defect-rich Quartz Surfaces in Water: Insights into the Bimodal Acidities of Quartz](https://www.sciencedirect.com/science/article/abs/pii/S0021979724006465?via%3Dihub) Journal of Colloid and Interface Science, 666, 232-243. 
 <p align="center">
-  <a href="https://doi-org/10.1016/j.jcis.2024.03.144" target="_blank">
+  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0021979724006465?via%3Dihub" target="_blank">
     <img src="images/website_pic.png" width="130">
   </a>
 </p>
