@@ -75,6 +75,12 @@ K. Yuan, N. Rampal, S. Adapa, B.R. Evans, J.N. Bracco, M.G. Boebinger, A.G. Stac
 K. Yuan, N. Rampal, S. Irle, L.J. Criscenti, S.S. Lee, S. Adapa, A.G. Stack (2024) [Variations in Proton Transfer Pathways and Energetics on Pristine and Defect-rich Quartz Surfaces in Water: Insights into the Bimodal Acidities of Quartz](https://doi-org.ornl.idm.oclc.org/10.1016/j.jcis.2024.03.144) Journal of Colloid and Interface Science, 666, 232-243. 
 
 P. Yang, K. Yuan, R. Khanal, S. Irle, L. M. Anovitz, P. Fenter, A.G. Stack, S.S. Lee (2024) [Variation in Cation Adsorption Mechanism Controlled by Chemical and Structural Heterogeneities at the Quartz (101)–Water Interface](https://doi.org/10.1021/acs.jpcc.4c03910) The Journal of Physical Chemistry C, 128 (41), 17372-17386.
+<p align="center">
+  <a href="https://doi.org/10.1021/acs.jpcc.4c03910" target="_blank">
+    <img src="images/website_pic.png" width="130">
+  </a>
+</p>
+
 
 K. Yuan, N. Rampal, X. Du, F. Shu, Y. Wang, H. Wang, A.G. Stack, P.B. Ishai, L.M. Anovitz, P. Xu (2024) [Impact of Magnetic and Electric Fields on the Free Energy to form a Calcium Carbonate ion-pair](https://doi.org/10.1039/D4CP02041C)
  Physical Chemistry Chemical Physics, 26 (44), 27891-27901.
