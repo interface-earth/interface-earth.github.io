@@ -16,7 +16,7 @@ Please feel free to contact me (ke.yuan@stonybrook.edu) to learn more about rese
 Team Members  
 </h2>
 
-<img src="images/profile_photo.png"
+<img src="images/profile_photo_new.png"
      width="120"
      align="left"
      style="margin-right:50px; margin-bottom:15px;">
