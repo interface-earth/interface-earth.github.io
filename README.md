@@ -72,15 +72,15 @@ K. Yuan, N. Rampal, S. Adapa, B.R. Evans, J.N. Bracco, M.G. Boebinger, A.G. Stac
   </a>
 </p>
 
-K. Yuan, N. Rampal, S. Irle, L.J. Criscenti, S.S. Lee, S. Adapa, A.G. Stack (2024) [Variations in Proton Transfer Pathways and Energetics on Pristine and Defect-rich Quartz Surfaces in Water: Insights into the Bimodal Acidities of Quartz](https://doi-org.ornl.idm.oclc.org/10.1016/j.jcis.2024.03.144) Journal of Colloid and Interface Science, 666, 232-243. 
-
-P. Yang, K. Yuan, R. Khanal, S. Irle, L. M. Anovitz, P. Fenter, A.G. Stack, S.S. Lee (2024) [Variation in Cation Adsorption Mechanism Controlled by Chemical and Structural Heterogeneities at the Quartz (101)–Water Interface](https://doi.org/10.1021/acs.jpcc.4c03910) The Journal of Physical Chemistry C, 128 (41), 17372-17386.
+K. Yuan, N. Rampal, S. Irle, L.J. Criscenti, S.S. Lee, S. Adapa, A.G. Stack (2024) [Variations in Proton Transfer Pathways and Energetics on Pristine and Defect-rich Quartz Surfaces in Water: Insights into the Bimodal Acidities of Quartz](https://doi-org/10.1016/j.jcis.2024.03.144) Journal of Colloid and Interface Science, 666, 232-243. 
 <p align="center">
-  <a href="https://doi.org/10.1021/acs.jpcc.4c03910" target="_blank">
+  <a href="https://doi-org/10.1016/j.jcis.2024.03.144" target="_blank">
     <img src="images/website_pic.png" width="130">
   </a>
 </p>
 
+
+P. Yang, K. Yuan, R. Khanal, S. Irle, L. M. Anovitz, P. Fenter, A.G. Stack, S.S. Lee (2024) [Variation in Cation Adsorption Mechanism Controlled by Chemical and Structural Heterogeneities at the Quartz (101)–Water Interface](https://doi.org/10.1021/acs.jpcc.4c03910) The Journal of Physical Chemistry C, 128 (41), 17372-17386.
 
 K. Yuan, N. Rampal, X. Du, F. Shu, Y. Wang, H. Wang, A.G. Stack, P.B. Ishai, L.M. Anovitz, P. Xu (2024) [Impact of Magnetic and Electric Fields on the Free Energy to form a Calcium Carbonate ion-pair](https://doi.org/10.1039/D4CP02041C)
  Physical Chemistry Chemical Physics, 26 (44), 27891-27901.
@@ -98,10 +98,10 @@ K. Yuan, N. Rampal, P. Fenter, J.D. Kubicki, A.G. Stack, S. Irle (2021) [Density
   </a>
 </p>
 
-K. Yuan, S.D. Taylor, B.A. Powell, U. Becker (2017) [An ab initio study of the adsorption of Eu<sup>3+</sup>, Pu<sup>3+</sup>, Am<sup>3+</sup>, and Cm<sup>3+</sup> hydroxide complexes on hematite (001) surface: Role of magnetism on adsorption](https://doi-org.ornl.idm.oclc.org/10.1016/j.susc.2017.06.007)
+K. Yuan, S.D. Taylor, B.A. Powell, U. Becker (2017) [An ab initio study of the adsorption of Eu<sup>3+</sup>, Pu<sup>3+</sup>, Am<sup>3+</sup>, and Cm<sup>3+</sup> hydroxide complexes on hematite (001) surface: Role of magnetism on adsorption](https://doi-org/10.1016/j.susc.2017.06.007)
  Surface Science 664, 120-128.
  
-S.L. Estes, Y. Arai, U. Becker, S. Fernando, K. Yuan, R.C. Ewing, J.M. Zhang, T. Shibata, B.A. Powell (2013) [A self-consistent model describing the thermodynamics of Eu(III) adsorption onto hematite](https://doi-org.ornl.idm.oclc.org/10.1016/j.gca.2013.08.023) Geochimica et Cosmochimica Acta 122, 430-447.
+S.L. Estes, Y. Arai, U. Becker, S. Fernando, K. Yuan, R.C. Ewing, J.M. Zhang, T. Shibata, B.A. Powell (2013) [A self-consistent model describing the thermodynamics of Eu(III) adsorption onto hematite](https://doi-org/10.1016/j.gca.2013.08.023) Geochimica et Cosmochimica Acta 122, 430-447.
 
 ### Strain, defects, and dissolution-reprecipitation
 K. Yuan, J. Weber, N. Rampal, Z. Fang, J. You, M.G. Boebinger, R. Zhang, W. Cha, L.M. Anovitz, S.S. Lee, A. Suzana, P. Fenter, A.G. Stack, (2026) [Mechanistic Insights into Defect-Mediated Crystallization Revealed by Lattice Strain Evolution, Journal of the American Chemical Society](https://doi.org/10.1021/jacs.5c11233) 148, 2, 2206-2219. 
