@@ -62,7 +62,7 @@ Publications
 
 Please see the complete publication list at [Google scholar](https://scholar.google.com/citations?user=FhJGYIQAAAAJ&hl=en)
 
-### Mineral surface and interfacial reactions (Ion sorption, proton transfer, and surface structure)
+### Ion sorption, proton transfer, and surface structure
 S. Adapa, K. Yuan, B. Evans, J. Weber, S. Irle, L.M. Anovitz, A.G. Stack (2025) [Acidities of MgO Surface Sites: Implications for the Formation Mechanism of Mg(OH)2](https://doi.org/10.1039/D5TA03981A) Journal of Materials Chemistry A, 13, 27367-27376.
 
 K. Yuan, N. Rampal, S. Adapa, B.R. Evans, J.N. Bracco, M.G. Boebinger, A.G. Stack, J. Weber (2024) [Iron Impurity Impairs the CO2 Capture Performance of MgO: Insights from Microscopy and Machine Learning Molecular Dynamics](https://doi.org/10.1021/acsami.4c13597) ACS Applied Materials & Interfaces, 16 (46), 64233-64243. 
@@ -97,7 +97,7 @@ K. Yuan, S.D. Taylor, B.A. Powell, U. Becker (2017) [An ab initio study of the a
  
 S.L. Estes, Y. Arai, U. Becker, S. Fernando, K. Yuan, R.C. Ewing, J.M. Zhang, T. Shibata, B.A. Powell (2013) [A self-consistent model describing the thermodynamics of Eu(III) adsorption onto hematite](https://doi-org.ornl.idm.oclc.org/10.1016/j.gca.2013.08.023) Geochimica et Cosmochimica Acta 122, 430-447.
 
-### Mineral dissolution and growth (Strain, defects, and dissolution-reprecipitation)
+### Strain, defects, and dissolution-reprecipitation
 K. Yuan, J. Weber, N. Rampal, Z. Fang, J. You, M.G. Boebinger, R. Zhang, W. Cha, L.M. Anovitz, S.S. Lee, A. Suzana, P. Fenter, A.G. Stack, (2026) [Mechanistic Insights into Defect-Mediated Crystallization Revealed by Lattice Strain Evolution, Journal of the American Chemical Society](https://doi.org/10.1021/jacs.5c11233) 148, 2, 2206-2219. 
 <p align="center">
   <a href="https://doi.org/10.1021/jacs.5c11233" target="_blank">
@@ -131,7 +131,10 @@ Y.J. Kim, K. Yuan, B.R. Ellis, U. Becker (2017) [Redox Reactions of Selenium as 
 
 K. Yuan, E.S. Ilton, M.R. Antonio, Z. Li, P.J. Cook, U. Becker (2015) [Electrochemical and Spectroscopic Evidence on the One electron Reduction of U(VI) to U(V) on Magnetite](https://doi.org/10.1021/acs.est.5b00025) Environmental Science & Technology 49, 6206-6213.
 
-## Contact
+<h2 class="section-header" id="research">
+Contact
+</h2>
+
 Email: ke.yuan@stonybrook.edu
 <br>[Department of Geosciences](https://www.stonybrook.edu/geosciences/)
 <br>Stony Brook University
