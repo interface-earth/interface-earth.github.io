@@ -63,8 +63,6 @@ Publications
 Please see the complete publication list at [Google scholar](https://scholar.google.com/citations?user=FhJGYIQAAAAJ&hl=en)
 
 ### Ion sorption, proton transfer, and surface structure
-S. Adapa, K. Yuan, B. Evans, J. Weber, S. Irle, L.M. Anovitz, A.G. Stack (2025) [Acidities of MgO Surface Sites: Implications for the Formation Mechanism of Mg(OH)<sub>2</sub>](https://doi.org/10.1039/D5TA03981A) Journal of Materials Chemistry A, 13, 27367-27376.
-
 K. Yuan, N. Rampal, S. Adapa, B.R. Evans, J.N. Bracco, M.G. Boebinger, A.G. Stack, J. Weber (2024) [Iron Impurity Impairs the CO<sub>2</sub> Capture Performance of MgO: Insights from Microscopy and Machine Learning Molecular Dynamics](https://doi.org/10.1021/acsami.4c13597) ACS Applied Materials & Interfaces, 16 (46), 64233-64243. 
 <p align="center">
   <a href="https://doi.org/10.1021/acsami.4c13597" target="_blank">
@@ -97,9 +95,6 @@ K. Yuan, N. Rampal, P. Fenter, J.D. Kubicki, A.G. Stack, S. Irle (2021) [Density
     <img src="images/jpcc.png" width="130">
   </a>
 </p>
-
-K. Yuan, S.D. Taylor, B.A. Powell, U. Becker (2017) [An ab initio study of the adsorption of Eu<sup>3+</sup>, Pu<sup>3+</sup>, Am<sup>3+</sup>, and Cm<sup>3+</sup> hydroxide complexes on hematite (001) surface: Role of magnetism on adsorption](https://doi-org/10.1016/j.susc.2017.06.007)
- Surface Science 664, 120-128.
  
 S.L. Estes, Y. Arai, U. Becker, S. Fernando, K. Yuan, R.C. Ewing, J.M. Zhang, T. Shibata, B.A. Powell (2013) [A self-consistent model describing the thermodynamics of Eu(III) adsorption onto hematite](https://doi-org/10.1016/j.gca.2013.08.023) Geochimica et Cosmochimica Acta 122, 430-447.
 
