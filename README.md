@@ -142,6 +142,10 @@ Contact
 </h2>
 
 Email: ke.yuan@stonybrook.edu
-<br>[Department of Geosciences](https://www.stonybrook.edu/geosciences/)
-<br>Stony Brook University
+<p>
+<strong><a href="https://www.stonybrook.edu/geosciences/">Department of Geosciences</a></strong><br>
+Stony Brook University<br>
+Earth and Space Sciences Building<br>
+Stony Brook, NY 11794
+</p>
 
