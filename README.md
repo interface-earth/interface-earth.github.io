@@ -116,7 +116,7 @@ K. Yuan, V. Starchenko, N. Rampal, F. Yang, X. Xiao, A.G. Stack (2023), [Assessi
  
 A.B. Brady, J. Weber, K. Yuan, L.F. Allard, O. Avina, R. Ogaz, Y.J. Chang, N.Rampal, V. Starchenko, G.Rother, L.M. Anovitz, J.L. Bañuelos, H. Wang, A.G. Stack (2022), [In Situ Observations of Barium Sulfate Nucleation in Nanopores](https://doi.org/10.1021/acs.cgd.2c00592) Crystal Growth & Design 22 (12), 6941-6951. 
 
-K. Yuan, V. Starchenko, N. Rampal, F. Yang, X. Yang, X. Xiao, W.K. Lee, A.G. Stack. (2021) [Opposing Effects of Impurity Ion Sr<sup>2+</sup> on the Heterogeneous Nucleation and Growth of Barite (BaSO4)](https://doi.org/10.1021/acs.cgd.1c00715) Crystal Growth & Design 21 (10), 5828-5839.
+K. Yuan, V. Starchenko, N. Rampal, F. Yang, X. Yang, X. Xiao, W.K. Lee, A.G. Stack. (2021) [Opposing Effects of Impurity Ion Sr<sup>2+</sup> on the Heterogeneous Nucleation and Growth of Barite (BaSO<sub>4</sub>)](https://doi.org/10.1021/acs.cgd.1c00715) Crystal Growth & Design 21 (10), 5828-5839.
 
 <p align="center">
   <a href="https://doi.org/10.1021/acs.cgd.1c00715" target="_blank">
