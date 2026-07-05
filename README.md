@@ -10,7 +10,7 @@ Reactions occurring at mineral–water interfaces influence a wide range of geoc
 2.	Molecular dynamics simulations of the uptake and release of emerging contaminants in groundwater aquifers
 3.	Material properties and interfacial processes under extreme conditions
 
-Please feel free to contact me (ke.yuan@stonybrook.edu) to learn more about research opportunities or potential collaborations.
+Please feel free to contact me to learn more about research opportunities or potential collaborations.
 
 <h2 class="section-header" id="team-members">
 Team Members  
