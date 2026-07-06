@@ -46,10 +46,7 @@ Email: ke.yuan@stonybrook.edu
      align="left"
      style="margin-right:50px; margin-bottom:15px;">
 
-We are looking for 1–2 motivated Ph.D. students to join the Lab beginning in Fall 2027. Students with backgrounds in geochemistry, chemistry, materials science, or related disciplines are encouraged to apply. 
-
-Interested applicants should fill out the form below and email me their CV and a brief statement describing their research experience and interests.
-[Apply Here](https://forms.gle/URNovjJoFop8hhFD6)
+We are looking for 1–2 motivated Ph.D. students to join the Lab beginning in Fall 2027. Students with backgrounds in geochemistry, chemistry, materials science, or related disciplines are encouraged to apply. Interested applicants should email me their CV and a brief statement describing their research experience and interests.
 
 <h2 class="section-header" id="facilities">
 Facilities 
