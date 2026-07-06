@@ -47,7 +47,7 @@ Email: ke.yuan@stonybrook.edu
      style="margin-right:50px; margin-bottom:15px;">
 
 The Interfacial Earth Materials Lab is seeking one postdoctoral researcher and 1–2 motivated Ph.D. students to join our research team. The postdoctoral position is expected to begin in Fall 2026 or Spring 2027, while prospective Ph.D. students are expected to begin in Fall 2027.
-We welcome applicants with backgrounds in geochemistry, chemistry, materials science, environmental science, or closely related disciplines. Individuals with interests and background in mineral–water interfaces, molecular simulations, critical minerals, redox reactions, or related areas are especially encouraged to apply. Please email me your CV along with a brief statement describing your research background, current interests, and career goals.
+We welcome applicants with backgrounds in geochemistry, (electro)chemistry, materials science, environmental science, or closely related disciplines. Individuals with interests and background in mineral–water interfaces, molecular simulations, critical minerals, redox reactions, or related areas are especially encouraged to apply. Please email me your CV along with a brief statement describing your research background, current interests, and career goals.
 
 <h2 class="section-header" id="facilities">
 Facilities 
