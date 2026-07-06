@@ -17,7 +17,7 @@ Team Members
 </h2>
 
 <img src="images/profile_photo_new.png"
-     width="140"
+     width="130"
      align="left"
      style="margin-right:50px; margin-bottom:15px;">
 
@@ -26,6 +26,7 @@ Assistant Professor<br>
 Department of Geosciences<br>
 Stony Brook University<br>
 Email: ke.yuan@stonybrook.edu
+
 
 <br>
 
