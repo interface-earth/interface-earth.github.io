@@ -35,9 +35,9 @@ Email: ke.yuan@stonybrook.edu
 -	B.S. China University of Geosciences, Beijing, 2009
 
 ### Work experience
--	Research Associate, [Oak Ridge National Laboratory](https://www.ornl.gov/group/gisg) 2020-2026
--	Postdoctoral Researcher, [Oak Ridge National Laboratory](https://www.ornl.gov/group/gisg) 2019-2020
--	Postdoctoral Researcher, [Argonne National Laboratory](https://www.anl.gov/cse/interfacial-processes) 2015-2019
+-	Research Associate, [Oak Ridge National Laboratory](https://www.ornl.gov) 2020-2026
+-	Postdoctoral Researcher, [Oak Ridge National Laboratory](https://www.ornl.gov) 2019-2020
+-	Postdoctoral Researcher, [Argonne National Laboratory](https://www.anl.gov) 2015-2019
 
 <h2 class="section-header" id="facilities">
 Facilities 
