@@ -116,7 +116,7 @@ K. Yuan, N. Rampal, P. Fenter, J.D. Kubicki, A.G. Stack, S. Irle (2021) [Density
 S.L. Estes, Y. Arai, U. Becker, S. Fernando, K. Yuan, R.C. Ewing, J.M. Zhang, T. Shibata, B.A. Powell (2013) [A self-consistent model describing the thermodynamics of Eu(III) adsorption onto hematite](https://www.sciencedirect.com/science/article/abs/pii/S0016703713004675) Geochimica et Cosmochimica Acta 122, 430-447.
 
 ### Strain, defects, and dissolution-reprecipitation
-K. Yuan, J. Weber, N. Rampal, Z. Fang, J. You, M.G. Boebinger, R. Zhang, W. Cha, L.M. Anovitz, S.S. Lee, A. Suzana, P. Fenter, A.G. Stack, (2026) [Mechanistic Insights into Defect-Mediated Crystallization Revealed by Lattice Strain Evolution, Journal of the American Chemical Society](https://doi.org/10.1021/jacs.5c11233) 148, 2, 2206-2219. 
+K. Yuan, J. Weber, N. Rampal, Z. Fang, J. You, M.G. Boebinger, R. Zhang, W. Cha, L.M. Anovitz, S.S. Lee, A. Suzana, P. Fenter, A.G. Stack, (2026) [Mechanistic Insights into Defect-Mediated Crystallization Revealed by Lattice Strain Evolution](https://doi.org/10.1021/jacs.5c11233) Journal of the American Chemical Society]148, 2, 2206-2219. 
 <p align="center">
   <a href="https://doi.org/10.1021/jacs.5c11233" target="_blank">
     <img src="images/bcdi.png" width="120">
