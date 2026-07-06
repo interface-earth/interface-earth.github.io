@@ -6,7 +6,7 @@ Research
 
 Reactions occurring at mineral–water interfaces influence a wide range of geochemical processes, including weathering, metal cycling, and the properties of Earth materials. These fundamental reactions are often initiated at non-ideal surface sites that are highly reactive and exhibit rapid structural dynamics. I am interested in understanding the elemental reaction steps at mineral–water interfaces using molecular-scale simulations, complemented by laboratory experiments and close collaborations with faculty members from [Aqueous Geochemistry Group](https://sites.google.com/stonybrook.edu/agate) and [Mineral Physics Institute](https://www.stonybrook.edu/commcms/mineral-physics-institute/) at Stony Brook, to reveal how mineral–water interfaces respond to complex (bio)geochemical environments. Current research topics include:
 
-1.	Mineral dissolution–reprecipitation and redox reactions
+1.	Mineral dissolution–reprecipitation and redox reactions relevant to critical mineral extraction
 2.	Molecular dynamics simulations of the uptake and release of emerging contaminants in groundwater aquifers
 3.	Material properties and interfacial processes under extreme conditions
 
@@ -38,6 +38,14 @@ Email: ke.yuan@stonybrook.edu
 -	Research Associate, [Oak Ridge National Laboratory](https://www.ornl.gov) 2020-2026
 -	Postdoctoral Researcher, [Oak Ridge National Laboratory](https://www.ornl.gov) 2019-2020
 -	Postdoctoral Researcher, [Argonne National Laboratory](https://www.anl.gov) 2015-2019
+
+### PhD students
+<img src="images/seawulf_logo.png"
+     width="140"
+     align="left"
+     style="margin-right:50px; margin-bottom:15px;">
+
+We are looking for 1–2 motivated Ph.D. students to join the Lab beginning in Fall 2027. Students with backgrounds in geochemistry, chemistry, materials science, or related disciplines are encouraged to apply. Interested applicants should email me their CV and a brief statement describing their research experience and interests.
 
 <h2 class="section-header" id="facilities">
 Facilities 
