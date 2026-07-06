@@ -50,11 +50,19 @@ We use and collaborate with researchers from user facilities at the nearby Brook
 - [BNL-CFN](https://www.bnl.gov/cfn/)
 - [BNL-NSLS-II](https://www.bnl.gov/nsls2/)
 
+<p style="text-align:right;">
+<a href="#navigation">⬆ Back to Navigation</a>
+</p>
+
 <h2 class="section-header" id="teaching">
 Teaching
 </h2>
 
 Fall 2026, Graduate Research Seminar (Surface and Interfacial Geochemistry)
+
+<p style="text-align:right;">
+<a href="#navigation">⬆ Back to Navigation</a>
+</p>
 
 <h2 class="section-header" id="publications">
 Publications
@@ -132,6 +140,10 @@ Y.J. Kim, K. Yuan, B.R. Ellis, U. Becker (2017) [Redox Reactions of Selenium as 
 
 K. Yuan, E.S. Ilton, M.R. Antonio, Z. Li, P.J. Cook, U. Becker (2015) [Electrochemical and Spectroscopic Evidence on the One electron Reduction of U(VI) to U(V) on Magnetite](https://doi.org/10.1021/acs.est.5b00025) Environmental Science & Technology 49, 6206-6213.
 
+<p style="text-align:right;">
+<a href="#navigation">⬆ Back to Navigation</a>
+</p>
+
 <h2 class="section-header" id="contact">
 Contact
 </h2>
@@ -144,3 +156,6 @@ Earth and Space Sciences Building<br>
 Stony Brook, NY 11794
 </p>
 
+<p style="text-align:right;">
+<a href="#navigation">⬆ Back to Navigation</a>
+</p>
