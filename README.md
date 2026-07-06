@@ -40,13 +40,14 @@ Email: ke.yuan@stonybrook.edu
 -	Postdoctoral Researcher, [Oak Ridge National Laboratory](https://www.ornl.gov) 2019-2020
 -	Postdoctoral Researcher, [Argonne National Laboratory](https://www.anl.gov) 2015-2019
 
-### PhD students
+### Join our lab
 <img src="images/seawulf_logo.png"
      width="140"
      align="left"
      style="margin-right:50px; margin-bottom:15px;">
 
-We are looking for 1–2 motivated Ph.D. students to join the Lab beginning in Fall 2027. Students with backgrounds in geochemistry, chemistry, materials science, or related disciplines are encouraged to apply. Interested applicants should email me their CV and a brief statement describing their research experience and interests.
+The Interfacial Earth Materials Lab is seeking one postdoctoral researcher and 1–2 motivated Ph.D. students to join our research team. The postdoctoral position is expected to begin in Fall 2026 or Spring 2027, while prospective Ph.D. students are expected to begin in Fall 2027.
+We welcome applicants with backgrounds in geochemistry, chemistry, materials science, environmental science, or closely related disciplines. Individuals with interests and background in mineral–water interfaces, molecular simulations, critical minerals, redox reactions, or related areas are especially encouraged to apply. Please email me your CV along with a brief statement describing your research background, current interests, and career goals.
 
 <h2 class="section-header" id="facilities">
 Facilities 
