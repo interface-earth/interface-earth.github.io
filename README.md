@@ -54,7 +54,7 @@ Facilities
 We have access to advanced high‑performance computing (HPC) clusters at SBU.
 - [SeaWulf & NVwulf](https://rci.stonybrook.edu/HPC)
 
-We use and collaborate with researchers the nearby Brookhaven National Laboratory (BNL), including the Center for Functional Materials (CFN) and the National Synchrotron Light Source II (NSLS‑II).
+We collaborate with researchers at the nearby Brookhaven National Laboratory (BNL) and utilize its world-class user facilities, including the Center for Functional Nanomaterials (CFN) and the National Synchrotron Light Source II (NSLS-II).
 - [BNL-CFN](https://www.bnl.gov/cfn/)
 - [BNL-NSLS-II](https://www.bnl.gov/nsls2/)
 
