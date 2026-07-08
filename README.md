@@ -1,4 +1,4 @@
-<h2 style="margin-top:40px;">
+<h2 style="margin-top:40px; color:#267CB9;">
 Welcome to the Interfacial Earth Materials Lab website.
 </h2>
 
