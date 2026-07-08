@@ -49,21 +49,18 @@
    =========================== */
 
 .hero-slider{
-    width:100%;
-    height:300px;
-    overflow:hidden;
-    position:relative;
-    margin-bottom:25px;
+ width: 100%;
+    text-align: center;
+    background: #f8f8f8;
+    margin-bottom: 30px;
 }
 
-.slide{
-
-    display:none;
-
-    width:100%;
-    height:300px;
-
-    object-fit:cover;
+.slide {
+    display: none;
+    max-width: 100%;
+    width: auto;
+    height: auto;
+    margin: auto;
 }
 
 .fade{
