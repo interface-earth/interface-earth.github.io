@@ -8,7 +8,7 @@ Reactions occurring at mineral–water interfaces influence a wide range of geoc
 
 1.	Mineral dissolution–reprecipitation and redox reactions relevant to critical mineral extraction
 2.	Molecular dynamics simulations of the uptake and release of emerging contaminants in groundwater aquifers
-3.	Molecular-scale simulations of material properties and interfacial processes under extreme conditions
+3.	Atomic-scale modeling of material properties and interfacial processes under extreme conditions
 
 Please feel free to contact me to learn more about research opportunities or potential collaborations.
 
@@ -144,7 +144,7 @@ K. Yuan, V. Starchenko. S. S. Lee, V. D. Andrade, D. Gursoy, N. C. Sturchio, P. 
 K. Yuan, S.S. Lee, W. Cha, A. Ulvestad, H. Kim, B. Abdilla, N.C. Sturchio, P. Fenter (2019) [Oxidation induced strain and defects in magnetite crystals](https://doi.org/10.1038/s41467-019-08470-0). Nature Communications 10, 703.
 <p align="center">
   <a href="https://doi.org/10.1038/s41467-019-08470-0" target="_blank">
-    <img src="images/magnetite_cdi.png" width="150">
+    <img src="images/magnetite_cdi.png" width="130">
   </a>
 </p>
 
