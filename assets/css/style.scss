@@ -67,11 +67,17 @@
 
 header {
     position: fixed;
-    top: 20px;
-    left: auto;
+    top: 340px;
     width: 270px;
-    max-height: calc(100vh - 40px);
+    max-height: calc(100vh - 360px);
     overflow-y: auto;
-    padding-right: 8px;
-    box-sizing: border-box;
+}
+
+@media (max-width: 960px) {
+    header {
+        position: static;
+        width: auto;
+        max-height: none;
+        overflow: visible;
+    }
 }
