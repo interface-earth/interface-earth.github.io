@@ -7,8 +7,14 @@
   display: none;
 }
 
+/*.sidebar-nav {
+    margin: 20px 0;
+}*/
+
 .sidebar-nav {
     margin: 20px 0;
+    max-height: 55vh;      /* adjust if needed */
+    overflow-y: auto;
 }
 
 .sidebar-nav a {
