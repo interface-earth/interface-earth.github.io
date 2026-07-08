@@ -1,5 +1,6 @@
-
-## Welcome to the Interfacial Earth Materials Lab website.
+<h2 style="margin-top:40px;">
+Welcome to the Interfacial Earth Materials Lab website.
+</h2>
 
 <h2 class="section-header" id="research">
 Research   
