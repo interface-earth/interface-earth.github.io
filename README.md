@@ -138,6 +138,11 @@ K. Yuan, V. Starchenko, N. Rampal, F. Yang, X. Yang, X. Xiao, W.K. Lee, A.G. Sta
 K. Yuan, V. Starchenko. S. S. Lee, V. D. Andrade, D. Gursoy, N. C. Sturchio, P. Fenter (2019) [Mapping three-dimensional dissolution rates of calcite microcrystals: Effects of surface curvature and dissolved metal ions](https://doi.org/10.1021/acsearthspacechem.9b00003) ACS Earth and Space Chemistry 3,5 883-843.
 
 K. Yuan, S.S. Lee, W. Cha, A. Ulvestad, H. Kim, B. Abdilla, N.C. Sturchio, P. Fenter (2019) [Oxidation induced strain and defects in magnetite crystals](https://doi.org/10.1038/s41467-019-08470-0). Nature Communications 10, 703.
+<p align="center">
+  <a href="https://doi.org/10.1038/s41467-019-08470-0" target="_blank">
+    <img src="images/magnetite_cdi.png" width="150">
+  </a>
+</p>
 
 K. Yuan, S.S. Lee, J. Wang, N.C. Sturchio, P. Fenter (2018) [Templating growth of a pseudomorphic lepidocrocite micro-shell at the calcite-water interface](https://doi.org/10.1021/acs.chemmater.7b03921) Chemistry of Materials 30(3), 700-707.
 
