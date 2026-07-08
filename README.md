@@ -8,7 +8,7 @@ Reactions occurring at mineral–water interfaces influence a wide range of geoc
 
 1.	Mineral dissolution–reprecipitation and redox reactions relevant to critical mineral extraction
 2.	Molecular dynamics simulations of the uptake and release of emerging contaminants in groundwater aquifers
-3.	Material properties and interfacial processes under extreme conditions
+3.	Molecular-scale simulations of material properties and interfacial processes under extreme conditions
 
 Please feel free to contact me to learn more about research opportunities or potential collaborations.
 
@@ -48,7 +48,7 @@ Email: ke.yuan@stonybrook.edu
 
 The Interfacial Earth Materials Lab is seeking one postdoctoral researcher and 1–2 motivated Ph.D. students to join our research team. The postdoctoral position is expected to begin in Fall 2026 or Spring 2027, while prospective Ph.D. students are expected to begin in Fall 2027.
 <br>
-We welcome applicants with backgrounds in geochemistry, chemistry, materials science, environmental science, or closely related disciplines. Individuals with interests and background in mineral–water interfaces, molecular simulations, surface chemistry, electrochemistry, critical minerals, redox reactions, or related areas are especially encouraged to apply. Please email me your CV along with a brief statement describing your research background, current interests, and career goals.
+We welcome applicants with backgrounds in geochemistry, physical chemistry, materials science, environmental science, or closely related disciplines. Individuals with interests in mineral–water interfaces, molecular simulations, surface chemistry, electrochemistry, critical minerals, redox reactions, or related areas are especially encouraged to apply. Please email me your CV along with a brief statement describing your research background, current interests, and career goals.
 
 <h2 class="section-header" id="facilities">
 Facilities 
