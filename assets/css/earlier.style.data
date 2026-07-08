@@ -1,0 +1,83 @@
+---
+---
+
+@import "jekyll-theme-minimal";
+
+.view {
+  display: none;
+}
+
+.sidebar-nav {
+    margin: 20px 0;
+}
+
+.sidebar-nav a {
+    display: block;
+    margin-bottom: 8px;
+    padding: 8px 12px;
+
+    background: #f4f4f4;
+    border: 1px solid #d0d0d0;
+    border-radius: 6px;
+
+    text-decoration: none;
+    color: #333;
+    font-weight: 600;
+    text-align: center;
+}
+
+.sidebar-nav a:hover {
+    background: #267CB9;
+    color: white;
+    border-color: #267CB9;
+}
+
+.section-header {
+    background: #267CB9;
+    color: white;
+    padding: 10px 18px;
+    font-size: 1.6em;
+    font-weight: bold;
+    border-radius: 6px;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+/* ===========================
+   Hero Image Slider
+   =========================== */
+
+ .hero-slider {
+    width: 100%;
+    height: 380px;          /* Fixed banner height */
+    background: #f5f5f5;    /* Color behind images */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    margin-bottom: 30px;
+}
+
+.slide {
+    display: none;
+    max-width: 100%;
+    max-height: 100%;
+    width: auto;
+    height: auto;
+}
+
+.fade{
+
+    animation-name:fade;
+
+    animation-duration:7.2s;
+}
+
+@keyframes fade{
+
+    from{opacity:.4;}
+
+    to{opacity:1;}
+
+}
