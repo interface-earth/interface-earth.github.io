@@ -60,6 +60,12 @@
 }
 
 header {
+    position: fixed;
+    top: 20px;
+    left: auto;
+    width: 270px;
+    max-height: calc(100vh - 40px);
     overflow-y: auto;
-    max-height: calc(100vh - 20px);
+    padding-right: 8px;
+    box-sizing: border-box;
 }
