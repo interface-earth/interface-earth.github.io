@@ -13,18 +13,7 @@
     {% include head-custom.html %}
   </head>
   <body>
-    <div class="hero-slider">
-
-    <img class="slide fade"
-         src="{{ '/images/banner_1.png' | relative_url }}">
-
-    <img class="slide fade"
-         src="{{ '/images/banner_2.png' | relative_url }}">
-
-    <img class="slide fade"
-         src="{{ '/images/banner_3.png' | relative_url }}">
-
-</div>
+    
     <div class="wrapper">
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
@@ -60,11 +49,19 @@
         {% endif %}
       </header>
       <section>
-      <div class="hero-slider">
+     <div class="hero-slider">
 
-       <!-- images here -->
+    <img class="slide fade"
+         src="{{ '/images/banner_1.png' | relative_url }}">
 
-      </div>
+    <img class="slide fade"
+         src="{{ '/images/banner_2.png' | relative_url }}">
+
+    <img class="slide fade"
+         src="{{ '/images/banner_3.png' | relative_url }}">
+
+       </div>
+
       {{ content }}
 
       </section>
