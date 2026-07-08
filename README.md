@@ -6,7 +6,7 @@ Welcome to the Interfacial Earth Materials Lab website.
 Research   
 </h2>
 
-Reactions occurring at mineral–water interfaces influence a wide range of geochemical processes, including weathering, metal cycling, and the properties of Earth materials. These fundamental reactions are often initiated at non-ideal surface sites that are highly reactive and exhibit rapid structural dynamics. I am interested in understanding the elemental reaction steps at mineral–water interfaces using molecular-scale simulations, complemented by laboratory experiments and close collaborations with faculty members from the Department of Geosciences at Stony Brook, to reveal how mineral–water interfaces respond to complex (bio)geochemical environments. Current research topics include:
+Reactions occurring at mineral–water interfaces influence a wide range of geochemical processes, including weathering, metal cycling, and the properties of Earth materials. These fundamental reactions are often initiated at non-ideal surface sites that are highly reactive and exhibit rapid structural dynamics. I am interested in understanding the elemental reaction steps at mineral–water interfaces using molecular-scale simulations, complemented by laboratory experiments and close collaborations with faculty members from the [Department of Geosciences](https://www.stonybrook.edu/geosciences/) at Stony Brook, to reveal how mineral–water interfaces respond to complex (bio)geochemical environments. Current research topics include:
 
 1.	Mineral dissolution–reprecipitation and redox reactions relevant to critical mineral extraction
 2.	Molecular dynamics simulations of the uptake and release of emerging contaminants in groundwater aquifers
