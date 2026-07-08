@@ -65,19 +65,30 @@
     margin-bottom: 40px;
 }
 
-header {
+/*header {
     position: fixed;
     top: 340px;
     width: 270px;
     max-height: calc(100vh - 360px);
     overflow-y: auto;
+}*/
+
+
+header {
+    position: fixed;
+    top: 340px;
+    width: 270px;
+    height: calc(100vh - 360px);
+    overflow-y: auto;
+    overflow-x: hidden;
+    box-sizing: border-box;
 }
 
 @media (max-width: 960px) {
     header {
         position: static;
         width: auto;
-        max-height: none;
+        height: auto;
         overflow: visible;
     }
 }
