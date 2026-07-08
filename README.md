@@ -143,8 +143,8 @@ K. Yuan, V. Starchenko. S. S. Lee, V. D. Andrade, D. Gursoy, N. C. Sturchio, P. 
 
 K. Yuan, S.S. Lee, W. Cha, A. Ulvestad, H. Kim, B. Abdilla, N.C. Sturchio, P. Fenter (2019) [Oxidation induced strain and defects in magnetite crystals](https://doi.org/10.1038/s41467-019-08470-0). Nature Communications 10, 703.
 <p align="center">
-  <a href="https://doi.org/10.1038/s41467-019-08470-0" target="_blank">
-    <img src="images/magnetite_cdi.png" width="130">
+  <a href="https://science.osti.gov/bes/Highlights/2019/BES-2019-04-b" target="_blank">
+    <img src="images/magnetite_cdi.png" width="125">
   </a>
 </p>
 
