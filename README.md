@@ -82,8 +82,9 @@ Fall 2026, Graduate Research Seminar (Surface and Interfacial Geochemistry)
 Publications
 </h2>
 
-Please see the complete publication list at [Google scholar](https://scholar.google.com/citations?user=FhJGYIQAAAAJ&hl=en)
+Please see the complete publication list at [Google scholar](https://scholar.google.com/citations?user=FhJGYIQAAAAJ&hl=en) and [ORCID](https://orcid.org/0000-0003-0565-0929)
 (The publications listed below were published prior to joining Stony Brook University.)
+<br>
 
 ### Ion sorption, proton transfer, and surface structure
 K. Yuan, N. Rampal, S. Adapa, B.R. Evans, J.N. Bracco, M.G. Boebinger, A.G. Stack, J. Weber (2024) [Iron Impurity Impairs the CO<sub>2</sub> Capture Performance of MgO: Insights from Microscopy and Machine Learning Molecular Dynamics](https://doi.org/10.1021/acsami.4c13597) ACS Applied Materials & Interfaces, 16 (46), 64233-64243. 
