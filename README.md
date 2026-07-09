@@ -28,9 +28,8 @@ Assistant Professor<br>
 Department of Geosciences<br>
 Stony Brook University<br>
 Email: ke.yuan@stonybrook.edu
-<br>
 
-<br>
+<div style="clear: both;"></div>
 
 ### Education
 -    Ph.D. University of Michigan, Ann Arbor, 2015
