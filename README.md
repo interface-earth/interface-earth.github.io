@@ -51,10 +51,10 @@ Join Us
      align="left"
      style="margin-right:50px; margin-bottom:15px;">
 
-The Interfacial Earth Materials Lab is seeking one postdoctoral researcher and 1–2 motivated Ph.D. students to join our research team. The postdoctoral position is expected to begin in Fall 2026 or Spring 2027, while prospective Ph.D. students are expected to begin in Fall 2027.
+The Interfacial Earth Materials Lab is seeking one postdoctoral researcher and 1–2 motivated Ph.D. students to join our research team. The postdoctoral position is expected to begin as early as Fall 2026, while prospective Ph.D. students are expected to start in Summer or Fall 2027.
 <br>
 
-We welcome applicants with backgrounds in geochemistry, physical chemistry, materials science, environmental science, or closely related disciplines. Individuals with interests in mineral–water interfaces, molecular simulations, surface chemistry, electrochemistry, critical minerals, redox reactions, or related areas are especially encouraged to apply. Please email me your CV along with a brief statement describing your research background, current interests, and career goals.
+We welcome applicants with backgrounds in geochemistry, physical chemistry, machine learning, materials science, environmental science, or closely related disciplines. Individuals with interests and experience in molecular simulations, surface chemistry, electrochemistry, critical minerals, redox reactions, or related areas are especially encouraged to apply. Please email me your CV along with a brief statement describing your research background and academic or career goals.
 
 <h2 class="section-header" id="facilities">
 Facilities 
