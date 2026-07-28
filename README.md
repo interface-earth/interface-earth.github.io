@@ -125,7 +125,7 @@ S.L. Estes, Y. Arai, U. Becker, S. Fernando, K. Yuan, R.C. Ewing, J.M. Zhang, T.
 ### Strain, defects, and dissolution-reprecipitation
 K. Yuan, J. Weber, N. Rampal, Z. Fang, J. You, M.G. Boebinger, R. Zhang, W. Cha, L.M. Anovitz, S.S. Lee, A. Suzana, P. Fenter, A.G. Stack, (2026) [Mechanistic Insights into Defect-Mediated Crystallization Revealed by Lattice Strain Evolution](https://doi.org/10.1021/jacs.5c11233) Journal of the American Chemical Society]148, 2, 2206-2219. 
 <p align="center">
-  <a href="https://doi.org/10.1021/jacs.5c11233" target="_blank">
+  <a href="(https://www.aps.anl.gov/APS-Science-Highlight/2026-07-22/decoding-crystallization-dynamics-from-preserved-strain-using)" target="_blank">
     <img src="images/bcdi.png" width="120">
   </a>
 </p>
